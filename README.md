@@ -1,5 +1,5 @@
 # social-proof-section
-Frontend Mentor project profile-card-component
+Frontend Mentor project social-proof-section
 
 Live example -> https://fernandomad.github.io/social-proof-section/
 
